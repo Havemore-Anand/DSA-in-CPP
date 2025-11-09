@@ -1,3 +1,8 @@
+// LeetCode Question: 4. Median of Two Sorted Arrays
+// Difficulty: Hard
+// Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
+// Solution by Divyanshu Anand
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
